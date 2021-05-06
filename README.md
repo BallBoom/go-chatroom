@@ -1,2 +1,2 @@
 # go-chatroom
-go实现soket聊天室
+go实现socket聊天室
